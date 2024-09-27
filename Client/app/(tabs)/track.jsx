@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const AiCoach = () => {
+const Track = () => {
   return (
     <View>
-      <Text>AiCoach</Text>
+      <Text>Track</Text>
     </View>
   )
 }
 
-export default AiCoach
+export default Track
